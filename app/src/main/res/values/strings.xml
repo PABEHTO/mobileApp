@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Try5</string>
+
+    <string-array name="gender_options">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
